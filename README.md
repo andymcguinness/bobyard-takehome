@@ -1,6 +1,4 @@
-# Bobyard Takehome
-
-Hiya! Welcome to the repository for my Bobyard Takehome project.
+# Basic React, TypeScript, TailwindCSS, Python, FastAPI, Supabase Project
 
 I have built out a basic API using FastAPI with React layered over it to provide a modern frontend.
 
@@ -44,15 +42,3 @@ I've created a functional backend and a template frontend.
 The backend is functional and can do basic CRUD operations -- this can be tested with Postman.
 
 The frontend displays the comments in a grid, styled as a card.
-
-## What I Would Do With More Time
-
-- Implement Part 3 -- have the frontend do the basic CRUD operations.
-- Implement Zustand for state management.
-- More/better error handling.
-- More/better styling -- would style the project as if it was an application UI, and you were the "Admin" user.
-- Implement testing using Jest.
-- Implement a CI/CD pipeline.
-- Dockerize the project.
-- Implement basic Supabase-powered auth.
-- Implement basic API/session-powered auth, so calls to the API need to be authenticated with a session/header.
